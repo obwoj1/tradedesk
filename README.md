@@ -25,7 +25,7 @@ Hosted on GitHub Pages
 
 Getting Started
 Clone the repo and open the file directly in any browser:
-bashgit clone https://github.com/your-username/tradedesk.git
+bashgit clone https://obwoj1.github.io/tradedesk/
 cd tradedesk
 open index.html
 No npm install. No build step. No config. It just works.
