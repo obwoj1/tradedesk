@@ -2,7 +2,7 @@
 
 TradeDesk — AI-Powered Trading Dashboard
 A fully client-side paper trading dashboard with live charts, portfolio tracking, news sentiment, and a built-in AI market analyst powered by Claude. No backend, no server, no dependencies to install — just open index.html and trade.
-Live demo: your-username.github.io/tradedesk
+Live demo: https://obwoj1.github.io/tradedesk/
 
 Features
 
@@ -22,21 +22,6 @@ Anthropic Claude API for the AI analyst
 Google Fonts — Syne + DM Mono
 Hosted on GitHub Pages
 
-
-Getting Started
-Clone the repo and open the file directly in any browser:
-bashgit clone https://obwoj1.github.io/tradedesk/
-cd tradedesk
-open index.html
-No npm install. No build step. No config. It just works.
-
-Deployment
-This project is built to deploy on GitHub Pages in under 5 minutes.
-
-Fork or clone this repo
-Go to Settings → Pages
-Set source branch to main, folder to /root
-Save — your site goes live at https://your-username.github.io/tradedesk/
 
 
 AI Analyst Setup
